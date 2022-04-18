@@ -4,7 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
 
-    <link rel="shortcut icon" href="img/ojo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="![ojo](https://user-images.githubusercontent.com/96804067/163759029-77eb5b48-68fb-4e25-96fc-7c64888c8999.png)
+" type="image/x-icon">
     <style>
 
 
@@ -261,9 +262,9 @@ body {
     <div class="header">
 
         <a href="#default" class="logo">Sofía Ojeda</a>
-        <a href="https://twitter.com/sumi_nora?t=wFZV3gl90_b1notodd018w&s=09"> <img src="img/twitter.png" alt="twitter"> </a>
-        <a href="https://open.spotify.com/playlist/0DaR7oxJOfimdFiHUU6PkN?si=EzwolWNiQfGwm7cS8jBJkg&utm_source=copy-link"> <img src="img/spotify.png" alt="spotify"> </a>
-        <a href="https://instagram.com/s.o.f.i.a_o.j.e.d.a_?igshid=YmMyMTA2M2Y="> <img src="img/instagram.png" alt="instagram"> </a>
+        <a href="https://twitter.com/sumi_nora?t=wFZV3gl90_b1notodd018w&s=09"> <img src="[twitter](https://user-images.githubusercontent.com/96804067/163759096-ea1da5d9-4c4f-42ae-b312-fb77ad52f687.png)" alt="twitter"> </a>
+        <a href="https://open.spotify.com/playlist/0DaR7oxJOfimdFiHUU6PkN?si=EzwolWNiQfGwm7cS8jBJkg&utm_source=copy-link"> <img src="img/spotify.png" alt="spotify"</a>
+        <a href="https://instagram.com/s.o.f!.i.a_o.j.e.d.a_?igshid=YmMyMTA2M2Y="> <img src="img/instagram.png" alt="instagram"> </a>
         <a href="https://vm.tiktok.com/ZMLVpwhd2/"> <img src="img/tik-tok.png" alt="tik tok"> </a>
 
         <a href="https://pin.it/2yPmmN0"> <img src="img/pinterest.png" alt="pinterest"> </a>

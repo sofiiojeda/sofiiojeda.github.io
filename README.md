@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 
-    <link rel="shortcut icon" href="http://localhost:63342/workdpsce-sofia/sofiiojeda.github.io/img/ojo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="img/ojo.png" type="image/x-icon">
     <style>
 
 
